@@ -20,3 +20,4 @@ function Trampolines(fn) {
   };
 }
 /////////////////// Part 3: Deferred Execution //////////////////////
+function flattern(array) {}
